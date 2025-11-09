@@ -6,17 +6,17 @@
     "slug": "scouting-wielewaal",
     "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.36%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 953,
+    "time": 954,
     "timeDay": 1032,
     "timeWeek": 952,
     "timeMonth": 893,
     "timeYear": 965,
     "dailyMinutesDown": {
-      "2025-11-09": 0
+      "2025-11-09": 9
     }
   }
 ]
