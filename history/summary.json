@@ -4,18 +4,19 @@
     "url": "https://www.wielewaalgroep.nl",
     "icon": "https://icons.duckduckgo.com/ip3/www.wielewaalgroep.nl.ico",
     "slug": "scouting-wielewaal",
-    "status": "down",
+    "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
-    "time": 952,
-    "timeDay": 848,
-    "timeWeek": 1001,
-    "timeMonth": 926,
-    "timeYear": 964,
+    "time": 951,
+    "timeDay": 944,
+    "timeWeek": 1005,
+    "timeMonth": 929,
+    "timeYear": 965,
     "dailyMinutesDown": {
+      "2025-11-22": 9,
       "2025-11-16": 27
     }
   }
